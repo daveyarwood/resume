@@ -1,0 +1,20 @@
+{
+  "author": "Dave Yarwood <dave.yarwood@gmail.com>",
+  "dependencies": {
+    "jsonresume-theme-one": "^0.0.1",
+    "puppeteer": "^21.1.1",
+    "resumed": "^3.0.1"
+  },
+  "name": "resume",
+  "private": true,
+  "scripts": {
+    "build": "yarn html && yarn pdf",
+    "clean": "rm -rf resume.html resume.pdf",
+    "html": "resumed render -t jsonresume-theme-one resume.json",
+    "pdf": "node html2pdf.js",
+    "posthtml": "bash postprocess-html.sh",
+    "prebuild": "yarn clean"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}

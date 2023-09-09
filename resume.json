@@ -1,0 +1,156 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "email": "dave.yarwood@gmail.com",
+    "image": "",
+    "location": {
+      "address": "5108 Sweeney Dr",
+      "city": "Durham, NC",
+      "countryCode": "USA",
+      "postalCode": "NC 27705"
+    },
+    "name": "Dave Yarwood",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/daveyarwood",
+        "username": "daveyarwood"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/dave-yarwood",
+        "username": "dave-yarwood"
+      }
+    ],
+    "url": "https://djy.io"
+  },
+  "education": [
+    {
+      "area": "Music Composition and Bassoon Performance",
+      "endDate": "2008",
+      "institution": "University of North Carolina - Chapel Hill",
+      "startDate": "2004",
+      "studyType": "Bachelor's degree",
+      "url": "https://www.unc.edu"
+    }
+  ],
+  "meta": {
+    "accent": "#bc1b39",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "lastModified": "2017-12-24T15:53:00",
+    "version": "v1.0.0"
+  },
+  "projects": [
+    {
+      "description": "Text-based music composition programming language",
+      "highlights": [
+        "More than 5,000 stars on GitHub, went viral on HackerNews",
+        "Open source: https://github.com/alda-lang/alda",
+        "Use cases: music notation, MIDI production, generative music",
+        "I've given talks and workshops about Alda at conferences around the world, including ICFP (2016), Compose Conference (2018), and Strange Loop (2019, 2021)"
+      ],
+      "name": "Alda",
+      "startDate": "2012 - present",
+      "url": "https://alda.io"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "distributed architecture",
+        "domain-driven design",
+        "SDLC",
+        "testing approaches"
+      ],
+      "name": "Technical design"
+    },
+    {
+      "keywords": [
+        "onboarding",
+        "leading",
+        "mentoring",
+        "documentation",
+        "creative problem solving",
+        "planning and prioritization",
+        "collaboration with stakeholders"
+      ],
+      "name": "People"
+    },
+    {
+      "keywords": [
+        "Clojure",
+        "Java",
+        "C#",
+        "Go",
+        "relational databases (SQL Server, PostgreSQL)",
+        "NoSQL / document databases (Redis, DynamoDB)",
+        "REST APIs"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "ClojureScript",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "XState",
+        "UX design",
+        "SSO",
+        "SAML",
+        "OIDC"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Git",
+        "Amazon Web Services (AWS)",
+        "Datadog",
+        "monitoring",
+        "logging",
+        "telemetry",
+        "observability",
+        "continuous integration & delivery (CI/CD)",
+        "standards compliance"
+      ],
+      "name": "DevOps"
+    }
+  ],
+  "work": [
+    {
+      "endDate": "present",
+      "highlights": [
+        "Contributed to growing the company from 10 to 150 employees and obtaining multiple rounds of VC funding",
+        "Implemented and maintained high-performance ad decision engines, customer-facing ad serving APIs and SDKs, infrastructure automation, automated testing, and internal tooling",
+        "Oversaw the long-term design, maintenance, and forward evolution of Kevel's campaign management UI",
+        "Won several high-profile enterprise customers by overhauling our UI authentication system to improve security and support single sign-on",
+        "Raised our Mozilla Observatory score from 0 to 80 (out of 100) by implementing a Content Security Policy and other security headers",
+        "Led technical design processes, collaborating with product managers and stakeholders to architect ideal solutions and deliver them on schedule",
+        "Streamlined the delivery of new features by building CI/CD pipelines",
+        "Mentored dozens of engineers in the areas of technical design and code quality",
+        "Diligently kept documentation accurate and up-to-date"
+      ],
+      "location": "Remote",
+      "name": "Kevel (formerly Adzerk)",
+      "position": "Senior Software Engineer",
+      "startDate": "2014",
+      "url": "https://kevel.com"
+    },
+    {
+      "endDate": "2014",
+      "highlights": [
+        "Reviewed medical, psychological, and vocational records to determine applicants' eligibility for Social Security disability",
+        "Served as the agency's sole liaison for judges and other staff at federal disability hearings offices",
+        "Effectively managed a demanding case load, keeping processing time as low as possible while ensuring quality in the accuracy of my decisions",
+        "Provided excellent customer service, even during very difficult conversations"
+      ],
+      "location": "Raleigh, NC",
+      "name": "NC Disability Determination Services",
+      "position": "Disability Examiner / ODAR Specialist",
+      "startDate": "2008"
+    }
+  ]
+}
