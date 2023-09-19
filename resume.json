@@ -121,7 +121,7 @@
   ],
   "work": [
     {
-      "endDate": "present",
+      "endDate": "Sep 2023",
       "highlights": [
         "Contributed to growing the company from 10 to 150 employees and obtaining multiple rounds of VC funding",
         "Implemented and maintained high-performance ad decision engines, customer-facing ad serving APIs and SDKs, infrastructure automation, automated testing, and internal tooling",
@@ -136,11 +136,11 @@
       "location": "Remote",
       "name": "Kevel (formerly Adzerk)",
       "position": "Senior Software Engineer",
-      "startDate": "2014",
+      "startDate": "Nov 2014",
       "url": "https://kevel.com"
     },
     {
-      "endDate": "2014",
+      "endDate": "Nov 2014",
       "highlights": [
         "Reviewed medical, psychological, and vocational records to determine applicants' eligibility for Social Security disability",
         "Served as the agency's sole liaison for judges and other staff at federal disability hearings offices",
@@ -150,7 +150,7 @@
       "location": "Raleigh, NC",
       "name": "NC Disability Determination Services",
       "position": "Disability Examiner / ODAR Specialist",
-      "startDate": "2008"
+      "startDate": "Aug 2008"
     }
   ]
 }
