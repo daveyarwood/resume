@@ -121,6 +121,14 @@
   ],
   "work": [
     {
+      "highlights": [],
+      "location": "Remote",
+      "name": "GovSpend",
+      "position": "Senior Software Engineer",
+      "startDate": "Oct 2023",
+      "url": "https://govspend.com"
+    },
+    {
       "endDate": "Sep 2023",
       "highlights": [
         "Contributed to growing the company from 10 to 150 employees and obtaining multiple rounds of VC funding",
