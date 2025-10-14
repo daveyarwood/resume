@@ -42,12 +42,11 @@
   },
   "projects": [
     {
-      "description": "Text-based music composition programming language",
+      "description": "A text-based programming language for music notation, MIDI production, and generative music.",
       "highlights": [
-        "More than 5,000 stars on GitHub, went viral on HackerNews",
-        "Open source: https://github.com/alda-lang/alda",
-        "Use cases: music notation, MIDI production, generative music",
-        "I've given talks and workshops about Alda at conferences around the world, including ICFP (2016), Compose Conference (2018), and Strange Loop (2019, 2021)"
+        "https://github.com/alda-lang/alda",
+        "Popular open-source project (5,000+ GitHub stars), featured on HackerNews",
+        "Presented at international conferences, including ICFP, Compose Conference, and Strange Loop"
       ],
       "name": "Alda",
       "startDate": "2012 - present",
@@ -57,8 +56,8 @@
   "skills": [
     {
       "keywords": [
-        "distributed architecture",
-        "domain-driven design",
+        "Distributed architecture",
+        "Domain-Driven Design",
         "SDLC",
         "testing approaches"
       ],
@@ -66,7 +65,7 @@
     },
     {
       "keywords": [
-        "onboarding",
+        "Onboarding",
         "leading",
         "mentoring",
         "documentation",
@@ -78,29 +77,47 @@
     },
     {
       "keywords": [
+        "Prompt engineering",
+        "semantic search",
+        "Langchain",
+        "Langfuse",
+        "LLM-assisted development"
+      ],
+      "name": "AI"
+    },
+    {
+      "keywords": [
+        "Temporal",
+        "Go",
+        "TypeScript",
+        "Node.js",
         "Clojure",
         "Java",
         "C#",
-        "Go",
-        "relational databases (SQL Server, PostgreSQL)",
-        "NoSQL / document databases (Redis, DynamoDB)",
         "REST APIs"
       ],
       "name": "Backend"
     },
     {
       "keywords": [
-        "ClojureScript",
-        "JavaScript",
         "TypeScript",
         "React",
+        "JavaScript",
         "XState",
         "UX design",
         "SSO",
         "SAML",
-        "OIDC"
+        "OIDC",
+        "ClojureScript"
       ],
       "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Relational databases (SQL Server, PostgreSQL)",
+        "NoSQL / document databases (MongoDB, Elasticsearch, Redis, DynamoDB)"
+      ],
+      "name": "Databases"
     },
     {
       "keywords": [
@@ -108,6 +125,7 @@
         "Bash",
         "Git",
         "Amazon Web Services (AWS)",
+        "Google Cloud Platform (GCP)",
         "Datadog",
         "monitoring",
         "logging",
@@ -121,7 +139,13 @@
   ],
   "work": [
     {
-      "highlights": [],
+      "highlights": [
+        "Guided company-wide LLM adoption by researching and comparing models for cost and quality, and implemented an optimized prompt engineering strategy to generate high-quality summaries for over 1 million meetings.",
+        "Reduced infrastructure costs by 36% through targeted database optimizations.",
+        "Rapidly developed a semantic search proof-of-concept using Voyage.AI and Elasticsearch, leveraging LLM-assisted development to quickly showcase the feature's value and drive company excitement to integrate semantic search into the product.",
+        "Drove significant data platform improvements by modernizing data pipelines, resolving critical performance bottlenecks, and leading the migration to Temporal Cloud.",
+        "Elevated engineering standards by establishing formal processes for both technical design (RFCs) and deployments, each supported by shared Notion templates."
+      ],
       "location": "Remote",
       "name": "GovSpend",
       "position": "Senior Software Engineer",
@@ -131,15 +155,10 @@
     {
       "endDate": "Sep 2023",
       "highlights": [
-        "Contributed to growing the company from 10 to 150 employees and obtaining multiple rounds of VC funding",
-        "Implemented and maintained high-performance ad decision engines, customer-facing ad serving APIs and SDKs, infrastructure automation, automated testing, and internal tooling",
-        "Oversaw the long-term design, maintenance, and forward evolution of Kevel's campaign management UI",
-        "Won several high-profile enterprise customers by overhauling our UI authentication system to improve security and support single sign-on",
-        "Raised our Mozilla Observatory score from 0 to 80 (out of 100) by implementing a Content Security Policy and other security headers",
-        "Led technical design processes, collaborating with product managers and stakeholders to architect ideal solutions and deliver them on schedule",
-        "Streamlined the delivery of new features by building CI/CD pipelines",
-        "Mentored dozens of engineers in the areas of technical design and code quality",
-        "Diligently kept documentation accurate and up-to-date"
+        "Key engineer during growth from 10 to 150+ employees; implemented and maintained high-performance ad engines and APIs, and oversaw the evolution of the campaign management UI.",
+        "Won high-profile enterprise customers by overhauling the UI authentication system to support SSO and improve security.",
+        "Improved application security by implementing a Content Security Policy, raising the company's Mozilla Observatory score from an F to an A.",
+        "Led technical design processes, mentored dozens of engineers, and streamlined feature delivery with CI/CD pipelines."
       ],
       "location": "Remote",
       "name": "Kevel (formerly Adzerk)",
@@ -150,10 +169,7 @@
     {
       "endDate": "Nov 2014",
       "highlights": [
-        "Reviewed medical, psychological, and vocational records to determine applicants' eligibility for Social Security disability",
-        "Served as the agency's sole liaison for judges and other staff at federal disability hearings offices",
-        "Effectively managed a demanding case load, keeping processing time as low as possible while ensuring quality in the accuracy of my decisions",
-        "Provided excellent customer service, even during very difficult conversations"
+        "Determined eligibility for Social Security disability by analyzing complex medical and vocational records, managing a demanding caseload while serving as the sole liaison for federal hearings offices."
       ],
       "location": "Raleigh, NC",
       "name": "NC Disability Determination Services",
