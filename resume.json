@@ -140,11 +140,11 @@
   "work": [
     {
       "highlights": [
-        "Guided company-wide LLM adoption by researching and comparing models for cost and quality, and implemented an optimized prompt engineering strategy to generate high-quality summaries for over 1 million meetings.",
-        "Reduced infrastructure costs by 36% through targeted database optimizations.",
-        "Rapidly developed a semantic search proof-of-concept using Voyage.AI and Elasticsearch, leveraging LLM-assisted development to quickly showcase the feature's value and drive company excitement to integrate semantic search into the product.",
-        "Drove significant data platform improvements by modernizing data pipelines, resolving critical performance bottlenecks, and leading the migration to Temporal Cloud.",
-        "Elevated engineering standards by establishing formal processes for both technical design (RFCs) and deployments, each supported by shared Notion templates."
+        "Pioneered LLM-assisted development workflows by building custom automation tools that reduced biweekly release preparation from 1-2 hours to minutes and guided engineers through high-quality RFC writing, dramatically improving team productivity.",
+        "Elevated engineering standards by establishing formal processes for technical design (RFCs) and deployments.",
+        "Guided company-wide LLM adoption by researching models for cost and quality, implementing an optimized prompt engineering strategy to generate summaries for over 1 million meetings.",
+        "Reduced infrastructure costs by 36% through targeted database optimizations and led migration to Temporal Cloud.",
+        "Rapidly developed a semantic search proof-of-concept using Voyage.AI and Elasticsearch, leveraging LLM-assisted development to quickly showcase the feature's value."
       ],
       "location": "Remote",
       "name": "GovSpend",
@@ -155,9 +155,8 @@
     {
       "endDate": "Sep 2023",
       "highlights": [
-        "Key engineer during growth from 10 to 150+ employees; implemented and maintained high-performance ad engines and APIs, and oversaw the evolution of the campaign management UI.",
-        "Won high-profile enterprise customers by overhauling the UI authentication system to support SSO and improve security.",
-        "Improved application security by implementing a Content Security Policy, raising the company's Mozilla Observatory score from an F to an A.",
+        "Key engineer during growth from 10 to 150+ employees; implemented high-performance ad engines and APIs, oversaw campaign management UI evolution.",
+        "Won high-profile enterprise customers by overhauling authentication to support SSO (SAML, OIDC) and implementing Content Security Policy, raising Mozilla Observatory score from F to A.",
         "Led technical design processes, mentored dozens of engineers, and streamlined feature delivery with CI/CD pipelines."
       ],
       "location": "Remote",
