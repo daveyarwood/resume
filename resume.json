@@ -67,12 +67,10 @@
     {
       "keywords": [
         "Onboarding",
-        "leading",
         "mentoring",
         "documentation",
-        "creative problem solving",
         "planning and prioritization",
-        "collaboration with stakeholders"
+        "cross-team collaboration"
       ],
       "name": "People"
     },
@@ -115,8 +113,8 @@
     },
     {
       "keywords": [
-        "Relational databases (SQL Server, PostgreSQL)",
-        "NoSQL / document databases (MongoDB, Elasticsearch, Redis, DynamoDB)"
+        "Relational (SQL Server, PostgreSQL)",
+        "NoSQL (MongoDB, Elasticsearch, Redis, DynamoDB)"
       ],
       "name": "Databases"
     },
@@ -125,14 +123,13 @@
         "Linux",
         "Bash",
         "Git",
-        "Amazon Web Services (AWS)",
-        "Google Cloud Platform (GCP)",
+        "AWS",
+        "GCP",
         "Datadog",
         "monitoring",
         "logging",
-        "telemetry",
         "observability",
-        "continuous integration & delivery (CI/CD)",
+        "CI/CD",
         "standards compliance"
       ],
       "name": "DevOps"
