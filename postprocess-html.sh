@@ -29,6 +29,7 @@ sed \
 # hacks above, too.)
 
 before_sections="$(mktemp)"
+summary_section="$(mktemp)"
 skills_section="$(mktemp)"
 experience_section="$(mktemp)"
 projects_section="$(mktemp)"
@@ -43,18 +44,21 @@ section_file() {
       echo "$before_sections"
       ;;
     1)
-      echo "$skills_section"
+      echo "$summary_section"
       ;;
     2)
-      echo "$experience_section"
+      echo "$skills_section"
       ;;
     3)
-      echo "$projects_section"
+      echo "$experience_section"
       ;;
     4)
-      echo "$education_section"
+      echo "$projects_section"
       ;;
     5)
+      echo "$education_section"
+      ;;
+    6)
       echo "$after_sections"
       ;;
     *)
@@ -81,6 +85,7 @@ done < "$(dirname "$0")/$html_file"
 # Now that I've captured the sections separately, I can re-order them.
 cat \
   "$before_sections" \
+  "$summary_section" \
   "$experience_section" \
   "$education_section" \
   "$projects_section" \
