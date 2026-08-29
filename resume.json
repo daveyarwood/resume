@@ -22,6 +22,7 @@
         "username": "dave-yarwood"
       }
     ],
+    "summary": "Software engineer with 12 years of experience building distributed systems, data platforms, and AI-powered products. I work across teams to set engineering standards, lead architecture, and grow other engineers. Most recently I pioneered LLM-assisted development and AI product infrastructure at GovSpend, and I now work at Fieldguide.",
     "url": "https://djy.io"
   },
   "education": [
@@ -37,7 +38,7 @@
   "meta": {
     "accent": "#bc1b39",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "lastModified": "2017-12-24T15:53:00",
+    "lastModified": "2026-08-29T15:34:00",
     "version": "v1.0.0"
   },
   "projects": [
@@ -139,13 +140,20 @@
   ],
   "work": [
     {
+      "location": "Remote",
+      "name": "Fieldguide",
+      "position": "Senior Software Engineer",
+      "startDate": "Aug 2026",
+      "url": "https://fieldguide.com"
+    },
+    {
       "highlights": [
-        "Pioneered LLM-assisted development workflows by building custom automation tools that reduced biweekly release preparation from 1-2 hours to minutes and guided engineers through high-quality RFC writing, dramatically improving team productivity.",
-        "Elevated engineering standards by establishing formal processes for technical design (RFCs) and deployments.",
-        "Guided company-wide LLM adoption by researching models for cost and quality, implementing an optimized prompt engineering strategy to generate summaries for over 1 million meetings.",
-        "Optimized infrastructure costs through 99% database storage reduction and migration to Temporal Cloud.",
-        "Rapidly developed a semantic search proof-of-concept using Voyage.AI and Elasticsearch, leveraging LLM-assisted development to quickly showcase the feature's value."
+        "Pioneered LLM-assisted development across the company, building shared tools that cut biweekly release prep from 1-2 hours to minutes and help engineers write high-quality RFCs.",
+        "Established formal technical design (RFC) and deployment standards, raising engineering quality across every team.",
+        "Led AI work spanning research, prompt strategy, and infrastructure, including summaries for over 2 million meetings and semantic search over government documents.",
+        "Cut infrastructure costs by profiling slow queries, dropping unused indexes, and cleaning up terabytes of MongoDB and Elasticsearch data."
       ],
+      "endDate": "Aug 2026",
       "location": "Remote",
       "name": "GovSpend",
       "position": "Senior Software Engineer II",
