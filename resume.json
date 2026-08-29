@@ -20,6 +20,11 @@
         "network": "LinkedIn",
         "url": "https://www.linkedin.com/in/dave-yarwood",
         "username": "dave-yarwood"
+      },
+      {
+        "network": "Website",
+        "url": "https://djy.io",
+        "username": "djy.io"
       }
     ],
     "summary": "Software engineer with 12 years of experience building distributed systems, data platforms, and AI-powered products. I work across teams to set engineering standards, lead architecture, and grow other engineers. Most recently I pioneered LLM-assisted development and AI product infrastructure at GovSpend, and I now work at Fieldguide.",
